@@ -8,4 +8,9 @@ FFMPEG+SDL2
 
 VS2019+ffmpeg、sdl均最新
 
-win10 64bit;测试通过，基本支持ffmpeg支持播放格式。![test](test.png)
+## 测试
+
+win10 64bit;测试通过，基本支持ffmpeg支持播放格式。[下载]
+
+[下载](<https://github.com/Ayuyuyu/WallPaper/releases/tag/1.0>)
+![test](test.png)
