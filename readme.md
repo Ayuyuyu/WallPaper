@@ -6,4 +6,6 @@ FFMPEG+SDL2
 
 增加简单界面。
 
-win10 64bit;测试通过，基本支持ffmpeg支持播放格式。![test](C:\WorkTitle\Github\WallPaper\FFPlayerMon\test.png)
+VS2019+ffmpeg、sdl均最新
+
+win10 64bit;测试通过，基本支持ffmpeg支持播放格式。![test](test.png)
